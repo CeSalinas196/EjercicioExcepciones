@@ -1,0 +1,14 @@
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.exe
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.deps.json
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.runtimeconfig.json
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfoInputs.cache
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfo.cs
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\refint\EjercicioExcepciones.dll
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.genruntimeconfig.cache
+C:\Users\edelr\source\repos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\ref\EjercicioExcepciones.dll
